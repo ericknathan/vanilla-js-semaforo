@@ -35,18 +35,10 @@ main img {
     height: 400px;
 }
 
-main img[src="./public/images/quebrada.jpg"] {
-    cursor: default;
-}
-
 button {
     height: 48px;
     width: 100px;
     cursor: pointer;
-}
-
-button[disabled] {
-    cursor: not-allowed;
 }
 
 footer {
